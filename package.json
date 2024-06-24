@@ -1,0 +1,21 @@
+{
+  "name": "safe-math",
+  "version": "1.0.0",
+  "description": "SafeMath is a utility library for performing safe arithmetic operations in JavaScript. It ensures that the results of arithmetic operations do not exceed the safe integer range in JavaScript (Number.MAX_SAFE_INTEGER and Number.MIN_SAFE_INTEGER)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "math",
+    "safe",
+    "arithmetic",
+    "operations",
+    "add",
+    "divide",
+    "subtract",
+    "multiply"
+  ],
+  "author": "Kashyap Kaki",
+  "license": "MIT"
+}

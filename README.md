@@ -12,7 +12,7 @@ Usage
 Here is an example of how to use the SafeMath library:
 
 ```
-const SafeMath = require('safe-math');
+const SafeMath = require('safe-math-operations');
 
 console.log(SafeMath.add(1, 2)); // 3
 console.log(SafeMath.subtract(5, 3)); // 2

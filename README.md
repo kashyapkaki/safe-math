@@ -1,11 +1,11 @@
-# Safe Math
+# Safe Math Operations
 
 SafeMath is a utility library for performing safe arithmetic operations in JavaScript. It ensures that the results of arithmetic operations do not exceed the safe integer range in JavaScript (Number.MAX_SAFE_INTEGER and Number.MIN_SAFE_INTEGER).
 
 ## Installation
 
 ```
-npm install safe-math
+npm i safe-math-operations
 ```
 
 Usage

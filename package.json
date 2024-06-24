@@ -18,15 +18,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kashyapkaki/safe-math.git"
+    "url": "git+https://github.com/kashyapkaki/safe-math.git"
   },
   "author": "Kashyap Kaki",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kashyapkaki/safe-math/issues"
   },
-  "homepage": "https://github.com/kashyapkaki/safe-math/#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/kashyapkaki/safe-math/#readme"
 }

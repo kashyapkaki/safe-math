@@ -1,6 +1,6 @@
 {
   "name": "safe-math-operations",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Safe Math Operations is a utility library for performing safe arithmetic operations in JavaScript. It ensures that the results of arithmetic operations do not exceed the safe integer range in JavaScript (Number.MAX_SAFE_INTEGER and Number.MIN_SAFE_INTEGER)",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,14 @@
     "subtract",
     "multiply"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashyapkaki/safe-math.git"
+  },
   "author": "Kashyap Kaki",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kashyapkaki/safe-math/issues"
+  },
+  "homepage": "https://github.com/kashyapkaki/safe-math/#readme"
 }
